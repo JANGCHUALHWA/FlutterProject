@@ -41,5 +41,5 @@
 
 ### 내 정보 화면
 
-![My Info Page](./images/mymagen.PNG)
+![My Info Page](./images/mymage.PNG)
 
