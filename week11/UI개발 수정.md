@@ -14,7 +14,7 @@
 
 ### 📸 메인 홈 화면
 
-![Home Screen](./images/home.PNG)
+![Home Screen](./images/Home.PNG)
 
 
 ### 랜덤 음식 추천 화면 구성
@@ -25,7 +25,7 @@
 ---
 
 ### 랜덤 음식 추천 화면
-![Random Food Page](./images/randomfood.PNG)
+![Random Food Page](./images/formation.PNG)
 ---
 
 ### 내 정보 페이지 입니다
@@ -41,5 +41,5 @@
 
 ### 내 정보 화면
 
-![My Info Page](./images/information.PNG)
+![My Info Page](./images/mymagen.PNG)
 
